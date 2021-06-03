@@ -1,11 +1,11 @@
 2021 DataStructure HW
 ===
 
-### HW 1 - Recursion, Binary Search
+### HW 1
 - Combination
 - Permutation
 - Binary search
-### HW 2 - Linked List
+### HW 2
 - Singly Linked List
 - Double Linked List 
 
